@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1HU4Z5ELO8MsuMKn+keHnIn3rhJFOIaEvFXskiRnSTY74em7SFEa6wouNl/Ju9g0Lo+QNgVwzKxs/45i5zciQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VINOVA-02\\source\\repos\\CrawlData\\CrawlData\\CrawlData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VINOVA-02\\.nuget\\packages\\htmlagilitypack\\1.11.52\\htmlagilitypack.1.11.52.nupkg.sha512"
+  ],
+  "logs": []
+}

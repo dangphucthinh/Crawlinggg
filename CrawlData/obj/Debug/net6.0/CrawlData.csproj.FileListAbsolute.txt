@@ -1,0 +1,17 @@
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\bin\Debug\net6.0\CrawlData.exe
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\bin\Debug\net6.0\CrawlData.deps.json
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\bin\Debug\net6.0\CrawlData.runtimeconfig.json
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\bin\Debug\net6.0\CrawlData.dll
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\bin\Debug\net6.0\CrawlData.pdb
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\obj\Debug\net6.0\CrawlData.csproj.AssemblyReference.cache
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\obj\Debug\net6.0\CrawlData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\obj\Debug\net6.0\CrawlData.AssemblyInfoInputs.cache
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\obj\Debug\net6.0\CrawlData.AssemblyInfo.cs
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\obj\Debug\net6.0\CrawlData.csproj.CoreCompileInputs.cache
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\obj\Debug\net6.0\CrawlData.csproj.CopyComplete
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\obj\Debug\net6.0\CrawlData.dll
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\obj\Debug\net6.0\refint\CrawlData.dll
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\obj\Debug\net6.0\CrawlData.pdb
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\obj\Debug\net6.0\CrawlData.genruntimeconfig.cache
+C:\Users\VINOVA-02\source\repos\CrawlData\CrawlData\obj\Debug\net6.0\ref\CrawlData.dll
